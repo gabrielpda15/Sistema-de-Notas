@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sistema de Notas</string>
+    <string name="p1">P1</string>
+    <string name="p2">P2</string>
+    <string name="p3">P3</string>
+    <string name="share">Compartilhar</string>
+    <string name="calc">Calcular</string>
+    <string name="result">O aluno atingiu média {average} e foi {result}</string>
+    <string name="approved">Aprovado</string>
+    <string name="reproved">Reprovado</string>
+    <string name="discipline">Nome da disciplina</string>
+    <string name="student">Nome do Aluno</string>
+    <string name="absence">Número de Faltas</string>
+    <string name="share_string">O aluno {name} foi {result} com média {average} em {discipline}, com as notas P1 = {p1}, P2 = {p2} e P3 = {p3}, e {absence} faltas!</string>
+    <string name="share_subject">Notas de {discipline}</string>
+</resources>
